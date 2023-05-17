@@ -1,2 +1,2 @@
 # social
-A social media app developed using flutter
+A social media ui app developed using flutter
